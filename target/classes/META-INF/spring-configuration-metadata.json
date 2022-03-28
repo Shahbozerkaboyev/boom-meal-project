@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "name": "api.info",
+      "type": "uz.elmurodov.meal.properties.OpenApiProperties",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "service.prop",
+      "type": "uz.elmurodov.meal.properties.ServerProperties",
+      "sourceType": "uz.elmurodov.meal.properties.ServerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "api.info.contact-email",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "api.info.contact-name",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "api.info.contact-url",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "api.info.description",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "api.info.license-name",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "api.info.license-url",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "api.info.terms-of-service",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "api.info.title",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "api.info.version",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.OpenApiProperties"
+    },
+    {
+      "name": "service.prop.ip",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.ServerProperties"
+    },
+    {
+      "name": "service.prop.port",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.ServerProperties"
+    },
+    {
+      "name": "service.prop.protocol",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.ServerProperties"
+    },
+    {
+      "name": "service.prop.url",
+      "type": "java.lang.String",
+      "sourceType": "uz.elmurodov.meal.properties.ServerProperties"
+    }
+  ],
+  "hints": []
+}
